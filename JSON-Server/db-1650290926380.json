@@ -1,0 +1,58 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Flash",
+      "author": "Grant Morrison",
+      "genre": "Sci-Fi",
+      "price": "9.99",
+      "publish_date": "2016-01-01",
+      "description": "The Flash is a comic book series written and illustrated by Grant Morrison, featuring the adventures of Barry Allen and his fellow superhero, who are both connected to the world of crime and justice."
+    },
+    {
+      "id": 2,
+      "title": "The Walking Dead",
+      "author": "Frank Darabont",
+      "genre": "Sci-Fi",
+      "price": "9.99",
+      "publish_date": "2016-01-01",
+      "description": "The Walking Dead is a comic book series written and illustrated by Frank Darabont, based on the comic book of the same name by Robert Kirkman and Jesse Hill."
+    },
+    {
+      "id": 3,
+      "title": "Batman",
+      "author": "Bob Kane",
+      "genre": "Sci-Fi",
+      "price": "9.99",
+      "publish_date": "2016-01-01",
+      "description": "Batman is a comic book superhero appearing in American comic books published by DC Comics. The character was created by artist Bob Kane and writer Bill Finger, and first appeared in Detective Comics #27 in 1939."
+    },
+    {
+      "id": 4,
+      "title": "Superman",
+      "author": "Jerry Siegel",
+      "genre": "Sci-Fi",
+      "price": "9.99",
+      "publish_date": "2016-01-01",
+      "description": "Superman is a comic book superhero appearing in publications by DC Comics, widely considered to be one of the most iconic characters in American comic books."
+    },
+    {
+      "id": 5,
+      "title": "The-Hulk",
+      "author": "Stan Lee",
+      "genre": "Sci-Fi",
+      "price": "9.99",
+      "publish_date": "2016-01-01",
+      "description": "The Hulk is a fictional superhero appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in The Incredible Hulk #1 (May 1962)."
+    },
+    {
+      "id": 6,
+      "title": "Spider-Man",
+      "author": "Stan Lee",
+      "genre": "Sci-Fi",
+      "price": "9.99",
+      "publish_date": "2016-01-01",
+      "description": "The Spider-Man is a fictional superhero appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in Spider-Man #1 (May 1962)."
+    }
+  ]
+}
